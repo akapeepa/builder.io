@@ -1,0 +1,33 @@
+#take{
+  background-color: #967FC3;
+  min-height: 50vh;
+  font-family: 'Sintony', sans-serif;
+  .container{
+    color: #fff;
+    .row{
+      text-align: center;
+      margin-top: 3em ;
+      h1{
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 2em;
+      }
+      a.btn{
+        background-color: #4CDADE;
+        color: #fff;
+        text-transform: uppercase;
+        padding-right: 2em;
+        padding-left: 2em;
+        border-radius: 3px;
+        margin-top: 1em;
+
+      }
+    }
+  }
+}
+.purple{
+  background-color: #967FC3 !important;
+  color: #fff !important;
+  border: 1px solid #fff;
+  margin-left: 1em;
+}

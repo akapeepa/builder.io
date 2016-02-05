@@ -1,0 +1,170 @@
+#sign-up {
+  background: #A48ECC;
+  min-height: 100vh;
+  font-family: 'Sintony', sans-serif; }
+  #sign-up .container {
+    position: relative; }
+  #sign-up nav {
+    margin-left: 66em;
+    margin-top: 3em; }
+    #sign-up nav a {
+      color: #fff;
+      font-weight: 700;
+      padding-right: 1.5em; }
+  #sign-up .intro {
+    text-align: center;
+    margin-top: 6em; }
+    #sign-up .intro h1 {
+      color: #fff;
+      font-weight: 400;
+      font-size: 2.5em; }
+    #sign-up .intro p {
+      color: #D8C8EC;
+      font-family: 'Sintony', sans-serif;
+      padding-bottom: 1em; }
+    #sign-up .intro a.btn {
+      padding-right: 3em;
+      padding-left: 3em;
+      border-radius: 3px;
+      background-color: #4CDADE;
+      color: #fff;
+      text-transform: uppercase;
+      font-size: 1em;
+      font-weight: 700;
+      margin-bottom: 3em; }
+  #sign-up img {
+    width: 100%;
+    padding-left: 5em;
+    padding-right: 5em; }
+  #sign-up .caption {
+    position: absolute;
+    bottom: 1.5em;
+    left: 11em; }
+    #sign-up .caption p {
+      font-weight: 700;
+      color: #fff;
+      margin-top: -5px; }
+  #sign-up .caption-likes {
+    position: absolute;
+    bottom: 1em;
+    right: 5em;
+    font-size: 2em;
+    color: #F3F3F3; }
+    #sign-up .caption-likes i.fa {
+      margin-right: 0.2em; }
+
+#getstarted {
+  background-color: #fff;
+  min-height: 50vh;
+  font-family: 'Sintony', sans-serif; }
+  #getstarted .text-center {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 4em; }
+  #getstarted a.btn {
+    background-color: #A48ECC;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 2em;
+    padding-left: 2em;
+    border-radius: 3px; }
+  #getstarted h3 {
+    color: #ACB4BA;
+    text-align: center; }
+  #getstarted p {
+    color: #ACB4BA;
+    text-align: center;
+    padding: 0 4em; }
+
+.white {
+  background-color: #fff !important;
+  color: #C0C3C6 !important;
+  border: 1px solid #bbb;
+  margin-left: 1em; }
+
+#work {
+  height: 80vh;
+  background-color: #F4F4F2;
+  font-family: 'Sintony', sans-serif; }
+  #work h3 {
+    color: #B3B9BF;
+    margin-top: 4em; }
+  #work p {
+    color: #B3B9BF;
+    padding-bottom: 1em; }
+  #work a.btn {
+    background-color: #AD97D8;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 3px;
+    font-weight: 400; }
+
+#take {
+  background-color: #967FC3;
+  min-height: 50vh;
+  font-family: 'Sintony', sans-serif; }
+  #take .container {
+    color: #fff; }
+    #take .container .row {
+      text-align: center;
+      margin-top: 3em; }
+      #take .container .row h1 {
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 2em; }
+      #take .container .row a.btn {
+        background-color: #4CDADE;
+        color: #fff;
+        text-transform: uppercase;
+        padding-right: 2em;
+        padding-left: 2em;
+        border-radius: 3px;
+        margin-top: 1em; }
+
+.purple {
+  background-color: #967FC3 !important;
+  color: #fff !important;
+  border: 1px solid #fff;
+  margin-left: 1em; }
+
+#video img {
+  width: 100%; }
+
+#layouts {
+  min-height: 65vh;
+  background-color: #F4F4F2;
+  font-family: 'Sintony', sans-serif; }
+  #layouts .container {
+    text-align: center; }
+    #layouts .container .row {
+      margin-top: 4em; }
+      #layouts .container .row i.fa {
+        color: #816FA6;
+        font-size: 3em; }
+      #layouts .container .row h3 {
+        color: #B3B9BF;
+        padding-bottom: 1em;
+        padding-top: 1em; }
+      #layouts .container .row p {
+        color: #B3B9BF;
+        padding-bottom: 1.5em; }
+      #layouts .container .row a {
+        color: #816FA6;
+        font-weight: 700; }
+
+#subscribe {
+  min-height: 100vh;
+  background-color: #fff;
+  font-family: 'Sintony', sans-serif; }
+  #subscribe .container {
+    text-align: center; }
+    #subscribe .container h3 {
+      text-transform: uppercase;
+      color: #816FA6;
+      font-size: 2em;
+      margin-top: 2em; }
+    #subscribe .container p {
+      color: #816FA6;
+      font-weight: 700; }
+
+/*# sourceMappingURL=app.css.map */

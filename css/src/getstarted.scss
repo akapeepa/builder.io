@@ -1,0 +1,36 @@
+#getstarted{
+  background-color: #fff;
+  min-height: 50vh;
+  font-family: 'Sintony', sans-serif;
+  .text-center{
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 4em;
+  }
+  a.btn{
+    background-color: #A48ECC;
+    color: #fff;
+    text-transform: uppercase;
+    padding-right: 2em;
+    padding-left: 2em;
+    border-radius: 3px;
+
+  }
+
+  h3{
+    color: #ACB4BA;
+    text-align: center;
+  }
+  p{
+    color: #ACB4BA;
+    text-align: center;
+    padding: 0 4em;
+  }
+}
+
+.white{
+  background-color: #fff !important;
+  color: #C0C3C6 !important;
+  border: 1px solid #bbb;
+  margin-left: 1em;
+}
