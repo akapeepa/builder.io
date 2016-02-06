@@ -1,0 +1,21 @@
+#takemymoney{
+  background-color: #9076BF;
+  min-height: 15vh;
+  font-family: 'Sintony', sans-serif;
+  .container{
+    text-align: center;
+    text-transform: uppercase;
+    .row{
+      a.btn{
+        background-color: #4CDADE;
+        color: #fff;
+        text-transform: uppercase;
+        padding-right: 2em;
+        padding-left: 2em;
+        border-radius: 2px;
+        margin-top: 2em;
+        font-size: 1em;
+      }
+    }
+  }
+}

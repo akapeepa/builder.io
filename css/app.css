@@ -163,8 +163,76 @@
       color: #816FA6;
       font-size: 2em;
       margin-top: 2em; }
-    #subscribe .container p {
+    #subscribe .container p.headline {
       color: #816FA6;
+      padding-bottom: 1em;
       font-weight: 700; }
+    #subscribe .container .row .plan {
+      border: 1px solid #888;
+      border-radius: 8px 8px 0 0;
+      padding: 0 15px;
+      border-radius: 8px;
+      height: 43em;
+      width: 22em;
+      position: relative; }
+      #subscribe .container .row .plan h4 {
+        background-color: #816FA6;
+        color: #fff;
+        text-transform: uppercase;
+        margin: 0 -15px;
+        padding: 1em 0;
+        border-radius: 5px 5px 0 0; }
+      #subscribe .container .row .plan p.description {
+        height: 4em;
+        color: #B1B1B1;
+        font-weight: 400;
+        padding: 0.5em 0 0 0;
+        border-top: 1px solid; }
+      #subscribe .container .row .plan h2 {
+        color: #86DADC;
+        padding-top: 10px; }
+      #subscribe .container .row .plan p {
+        color: #D6DBDE;
+        padding-top: 1em; }
+      #subscribe .container .row .plan a.btn {
+        background-color: #816FA6;
+        color: #fff;
+        text-transform: uppercase;
+        padding-right: 4em;
+        padding-left: 4em;
+        border-radius: 3px;
+        margin-top: 4em;
+        border: 2.5px solid; }
+
+.black {
+  background-color: #fff !important;
+  color: #816FA6 !important;
+  border: 1.5px solid #816FA6;
+  margin-left: 1em; }
+
+#ipad img {
+  width: 100%; }
+
+#takemymoney {
+  background-color: #9076BF;
+  min-height: 15vh;
+  font-family: 'Sintony', sans-serif; }
+  #takemymoney .container {
+    text-align: center;
+    text-transform: uppercase; }
+    #takemymoney .container .row a.btn {
+      background-color: #4CDADE;
+      color: #fff;
+      text-transform: uppercase;
+      padding-right: 2em;
+      padding-left: 2em;
+      border-radius: 2px;
+      margin-top: 2em;
+      font-size: 1em; }
+
+#footer {
+  background-color: #FFF;
+  min-height: 50vh;
+  font-family: 'Sintony', sans-serif; }
 
 /*# sourceMappingURL=app.css.map */
