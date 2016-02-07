@@ -1,5 +1,19 @@
 #footer{
   background-color: #FFF;
-  min-height: 50vh;
+  min-height: 40vh;
   font-family: 'Sintony', sans-serif;
+  color: #CDD0D5;
+  .row{
+    margin-top: 1em;
+    text-align: center;
+    h3{
+      text-transform: uppercase;
+    }
+    i{
+      font-size: 4em;
+      padding-left: 77px;
+      padding-top: 4px;
+      position: absolute;
+    }
+  }
 }

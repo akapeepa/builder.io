@@ -1,5 +1,5 @@
 #subscribe{
-  min-height: 100vh;
+  min-height: 120vh;
   background-color: #fff;
   font-family: 'Sintony', sans-serif;
   .container{
@@ -54,7 +54,6 @@
           padding-right: 4em;
           padding-left: 4em;
           border-radius: 3px;
-          margin-top: 4em;
           border: 2.5px solid;
         }
       }
@@ -66,4 +65,13 @@
   color: #816FA6 !important;
   border: 1.5px solid #816FA6;
   margin-left: 1em;
+  margin-top: 160px;
+}
+
+.blue{
+  background-color: #816FA6 !important;
+  color: #fff !important;
+  border: 1.5px solid #816FA6;
+  margin-left: 1em;
+  margin-top: 72px;
 }
